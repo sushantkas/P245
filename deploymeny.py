@@ -24,6 +24,7 @@ def add_bg_from_url(link):
 add_bg_from_url(image)
 
 
+import pickle
 # Loading scaler and Encoder files
 
 with open("Stadnard_scaler.pkl", "rb") as file1:
