@@ -3,7 +3,6 @@ import numpy as np
 import streamlit as st
 import pickle
 
-
 st.title("Welcome to check Customer segmentation")
 
 image="https://media.istockphoto.com/id/1336161711/vector/hand-holding-magifier-to-find-target-audience-among-other-people-on-grey-background.jpg?s=1024x1024&w=is&k=20&c=414XvgXgE5OGvMukfZGKCq8WfotroRe-ptEjGKuI5y0="
